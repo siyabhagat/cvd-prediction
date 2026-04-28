@@ -1,5 +1,5 @@
 Comparative Analysis of Ensemble Learning Architectures and Explainable AI for Early CVD Prediction                                                                                                         
-Authors: Siya Bhagat, Aryan Walia | Chitkara University, Patiala                       
+Authors: Siya Bhagat(2210992387), Aryan Walia(2210990185) | Chitkara University, Patiala                       
 Paper ID: IJRASET80940 (Submitted for Publication)
   
 **Overview** 
